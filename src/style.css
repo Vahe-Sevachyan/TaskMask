@@ -13,4 +13,9 @@
 
 .box {
   margin-top: -30%;
+  transition: background-color 1s ease;
+}
+
+.box:hover {
+  box-shadow: 0 0 10px #007bff, 0 0 10px #007bff, 0 0 10px #007bff;
 }/*# sourceMappingURL=style.css.map */
