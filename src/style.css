@@ -3,10 +3,6 @@
   margin-top: -30%;
 }
 
-.button {
-  width: 180px;
-}
-
 .input {
   width: 300px;
 }
@@ -18,4 +14,14 @@
 
 .box:hover {
   box-shadow: 0 0 10px #007bff, 0 0 10px #007bff, 0 0 10px #007bff;
+}
+
+.ct-btn {
+  padding: 10px;
+  width: 150px;
+}
+
+.textarea {
+  resize: none;
+  height: 70px;
 }/*# sourceMappingURL=style.css.map */
